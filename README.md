@@ -8,9 +8,9 @@ Este repositório foi criado com o intuito de organizar e facilitar os estudos a
 
 ### Assuntos
 
-   - [Metodologia Ágil e Scrum ]()
-   - [GIT e Github]()
-   - [Fundamentos da Segurança da Informação]()
+   - [Metodologia Ágil e Scrum ](https://github.com/devraffa/Blockchain-Compass/blob/main/scrum.md)
+   - [GIT e Github](https://github.com/devraffa/Blockchain-Compass/blob/main/Git.md)
+   - [Fundamentos da Segurança da Informação](https://github.com/devraffa/Blockchain-Compass/blob/main/Seguranca.md)
    - [Bitcoin e Blockchain - Conceitos Fundamentais]()
 
 ### Principal Objetivo
