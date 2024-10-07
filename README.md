@@ -11,7 +11,7 @@ Este repositório foi criado com o intuito de organizar e facilitar os estudos a
    - [Metodologia Ágil e Scrum ](https://github.com/devraffa/Blockchain-Compass/blob/main/scrum.md)
    - [GIT e Github](https://github.com/devraffa/Blockchain-Compass/blob/main/Git.md)
    - [Fundamentos da Segurança da Informação](https://github.com/devraffa/Blockchain-Compass/blob/main/Seguranca.md)
-   - [Bitcoin e Blockchain - Conceitos Fundamentais]()
+   - [Bitcoin e Blockchain - Conceitos Fundamentais](https://github.com/devraffa/Blockchain-Compass/blob/main/Bitcoin%20e%20Blockchain.md)
 
 ### Principal Objetivo
 Este repositório tem como finalidade estruturar o estudo de blockchain de maneira clara e progressiva, tornando mais fácil a compreensão dos principais conceitos e ferramentas associados a essa tecnologia.
